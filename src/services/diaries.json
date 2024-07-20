@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "date": "2024-07-01",
+      "weather": "sunny",
+      "visibility": "clear",
+      "comment": "A perfect day for outdoor activities."
+    },
+    {
+      "id": 2,
+      "date": "2024-07-02",
+      "weather": "cloudy",
+      "visibility": "moderate",
+      "comment": "Overcast with occasional sunshine."
+    },
+    {
+      "id": 3,
+      "date": "2024-07-03",
+      "weather": "rainy",
+      "visibility": "poor",
+      "comment": "Heavy rain throughout the day."
+    },
+    {
+      "id": 4,
+      "date": "2024-07-04",
+      "weather": "sunny",
+      "visibility": "excellent",
+      "comment": "Clear skies and excellent visibility."
+    },
+    {
+      "id": 5,
+      "date": "2024-07-05",
+      "weather": "windy",
+      "visibility": "good",
+      "comment": "Windy but clear, a bit chilly."
+    },
+    {
+      "id": 6,
+      "date": "2024-07-06",
+      "weather": "stormy",
+      "visibility": "poor",
+      "comment": "Severe storm with thunder and lightning."
+    }
+  ]
+  
